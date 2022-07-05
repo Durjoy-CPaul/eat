@@ -1,6 +1,5 @@
 body {
-
-    font-family: 'Righteous', cursive;
+    font-family: 'Montserrat', sans-serif;
     margin: 0;
 }
 
@@ -11,7 +10,17 @@ h1 {
 .first-head {
     margin-left: 30px;
     margin-top: 80px;
-    color: gray;
+}
+
+.first-head h1 {
+    margin-top: 60px;
+    color: rgb(79, 79, 79);
+    font-weight: 900;
+}
+
+.first-head p {
+    font-size: 15px;
+    color: rgb(96, 94, 94);
 }
 
 section {
@@ -26,7 +35,20 @@ section {
 
 }
 
+.link {
+    padding: 10px 20px;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    border-radius: 50px;
+    font-size: 10px;
+}
+
 div img {
     width: 100%;
+    min-height: 100%;
+
+
 
 }
