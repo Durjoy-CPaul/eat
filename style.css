@@ -1,0 +1,32 @@
+body {
+
+    font-family: 'Righteous', cursive;
+    margin: 0;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.first-head {
+    margin-left: 30px;
+    margin-top: 80px;
+    color: gray;
+}
+
+section {
+    display: flex;
+
+}
+
+.half-div {
+    width: 50%;
+    padding-left: 10px;
+
+
+}
+
+div img {
+    width: 100%;
+
+}
